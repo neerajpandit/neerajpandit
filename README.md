@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Computer Science Engineering**
 
-- 👯 I’m looking to collaborate on **Django & Reactjs**
+- 👯 I’m looking to collaborate on **Django & NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/neerajpandit?tab=repositories](https://github.com/neerajpandit?tab=repositories)
 
