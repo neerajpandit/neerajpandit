@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neeraj Pandey</h1>
-<h3 align="center">A passionate Software Developer Engineer from India</h3>
+<h3 align="center">A passionate Software Development Engineer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neerajpandit" alt="neerajpandit" /></a> </p>
 
